@@ -9,8 +9,8 @@
 
 // Disclaimer: No guarantees are provided with the script.
 // The purpose of it usage is for legal and fair purposes only.
-// The author is not responsible for any unfair of malicious usage.
-// Use at your own risk.
+// The author is not responsible for any damage, or unfair/malicious usage.
+// Use at your own risk and responsibility.
 
 'use strict';
 
