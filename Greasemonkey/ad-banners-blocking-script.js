@@ -15,8 +15,8 @@
 'use strict';
 
 // Classes and Ids of all elements that the page is going to be cleared of.
-var classes = ['fc-ab-root'];
-var ids = ['google_ads_iframe'];
+var classes = ['adman_root', 'ad-widget', 'fc-ab-root'];
+var ids = ['google_ads_iframe', 'adman-display-fallback'];
 
 // Mutate objects so that in case an ad-blocking removal banner is found,
 // you remove it.
